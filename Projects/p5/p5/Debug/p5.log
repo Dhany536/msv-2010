@@ -1,0 +1,30 @@
+﻿Build started 03/05/2024 14:54:39.
+     1>Project "c:\Users\Lenovo\documents\visual studio 2010\Projects\p5\p5\p5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\p5.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\p5.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt p5.cpp /clr:nostdlib 
+         p5.cpp
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(356): error C2065: 'ComboBox1' : undeclared identifier
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(356): error C2228: left of '.Items' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(356): error C2228: left of '.Add' must have class/struct/union
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(357): error C2146: syntax error : missing ';' before identifier 'ComboBox1'
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(357): error C2065: 'ComboBox1' : undeclared identifier
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(357): error C2228: left of '.Items' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(357): error C2228: left of '.Add' must have class/struct/union
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(358): error C2146: syntax error : missing ';' before identifier 'ComboBox1'
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(358): error C2065: 'ComboBox1' : undeclared identifier
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(358): error C2228: left of '.Items' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(358): error C2228: left of '.Add' must have class/struct/union
+     1>c:\users\lenovo\documents\visual studio 2010\projects\p5\p5\Form1.h(359): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "c:\Users\Lenovo\documents\visual studio 2010\Projects\p5\p5\p5.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37

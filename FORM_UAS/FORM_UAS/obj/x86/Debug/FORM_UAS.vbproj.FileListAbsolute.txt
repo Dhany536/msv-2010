@@ -1,0 +1,21 @@
+E:\Zul\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.exe
+E:\Zul\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.pdb
+E:\Zul\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.xml
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.Form1.resources
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.Resources.resources
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.vbproj.GenerateResource.Cache
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.exe
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.xml
+E:\Zul\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.pdb
+D:\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.exe
+D:\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.xml
+D:\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.pdb
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.exe
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.xml
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.pdb
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.exe
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.pdb
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\bin\Debug\FORM_UAS.xml
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.Form1.resources
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.Resources.resources
+D:\Visual Studio 2010\FORM_UAS\FORM_UAS\obj\x86\Debug\FORM_UAS.vbproj.GenerateResource.Cache

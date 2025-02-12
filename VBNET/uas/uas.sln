@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "uas", "uas\uas.vbproj", "{971D0EEE-0C4A-43AD-95B5-B76D76DD1921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971D0EEE-0C4A-43AD-95B5-B76D76DD1921}.Debug|x86.ActiveCfg = Debug|x86
+		{971D0EEE-0C4A-43AD-95B5-B76D76DD1921}.Debug|x86.Build.0 = Debug|x86
+		{971D0EEE-0C4A-43AD-95B5-B76D76DD1921}.Release|x86.ActiveCfg = Release|x86
+		{971D0EEE-0C4A-43AD-95B5-B76D76DD1921}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

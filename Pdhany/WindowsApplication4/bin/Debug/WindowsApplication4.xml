@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication4
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication4.Database71DataSet.AnggotaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.BUKUDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.KembaliDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PetugasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PinjamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.AnggotaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.BUKURow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.KembaliRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PetugasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PinjamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.AnggotaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.BUKURowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.KembaliRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PetugasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet.PinjamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.AnggotaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.BUKUTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.KembaliTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.PetugasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.PinjamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication4.Database71DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication4.Database71DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication4.Database71DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication4.Database71DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication4.Database71DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:WindowsApplication4.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication4.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication4.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

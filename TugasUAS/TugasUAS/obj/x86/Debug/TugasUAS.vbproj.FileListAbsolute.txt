@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\TugasUAS\TugasUAS\bin\Debug\TugasUAS.exe
+D:\Visual Studio 2010\TugasUAS\TugasUAS\bin\Debug\TugasUAS.pdb
+D:\Visual Studio 2010\TugasUAS\TugasUAS\bin\Debug\TugasUAS.xml
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Form1.resources
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Resources.resources
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.vbproj.GenerateResource.Cache
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.exe
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.xml
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.pdb
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Form2.resources
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Form3.resources
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Form4.resources
+D:\Visual Studio 2010\TugasUAS\TugasUAS\obj\x86\Debug\TugasUAS.Form5.resources

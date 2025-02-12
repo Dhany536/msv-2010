@@ -1,0 +1,10 @@
+C:\Users\LK1-11\Documents\zul\UTS\UTS\bin\Debug\UTS.exe.config
+C:\Users\LK1-11\Documents\zul\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\LK1-11\Documents\zul\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\LK1-11\Documents\zul\UTS\UTS\bin\Debug\UTS.xml
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.Form1.resources
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.Resources.resources
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.vbproj.GenerateResource.Cache
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.exe
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.xml
+C:\Users\LK1-11\Documents\zul\UTS\UTS\obj\Debug\UTS.pdb

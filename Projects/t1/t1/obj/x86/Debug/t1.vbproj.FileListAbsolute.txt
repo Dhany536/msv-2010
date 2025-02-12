@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\bin\Debug\t1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\bin\Debug\t1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\bin\Debug\t1.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\t1\t1\obj\x86\Debug\t1.pdb

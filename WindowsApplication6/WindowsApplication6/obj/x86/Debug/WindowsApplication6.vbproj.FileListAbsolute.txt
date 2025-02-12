@@ -1,0 +1,3 @@
+D:\Visual Studio 2010\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+D:\Visual Studio 2010\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+D:\Visual Studio 2010\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache

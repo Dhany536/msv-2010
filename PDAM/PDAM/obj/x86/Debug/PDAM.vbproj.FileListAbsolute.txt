@@ -1,0 +1,12 @@
+E:\punya dapaaa\SMT 4\PDAM\PDAM\bin\Debug\PDAM.exe
+E:\punya dapaaa\SMT 4\PDAM\PDAM\bin\Debug\PDAM.pdb
+E:\punya dapaaa\SMT 4\PDAM\PDAM\bin\Debug\PDAM.xml
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.Form1.resources
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.Resources.resources
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.vbproj.GenerateResource.Cache
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.exe
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.xml
+E:\punya dapaaa\SMT 4\PDAM\PDAM\obj\x86\Debug\PDAM.pdb
+D:\PDAM\PDAM\obj\x86\Debug\PDAM.exe
+D:\PDAM\PDAM\obj\x86\Debug\PDAM.xml
+D:\PDAM\PDAM\obj\x86\Debug\PDAM.pdb

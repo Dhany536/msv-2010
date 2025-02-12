@@ -1,0 +1,44 @@
+D:\Visual Studio 2010\UTS\UTS\bin\Debug\UTS.exe
+D:\Visual Studio 2010\UTS\UTS\bin\Debug\UTS.pdb
+D:\Visual Studio 2010\UTS\UTS\bin\Debug\UTS.xml
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.Resources.resources
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.vbproj.GenerateResource.Cache
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.exe
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.xml
+D:\Visual Studio 2010\UTS\UTS\obj\x86\Debug\UTS.pdb
+F:\UTS\UTS\obj\x86\Debug\UTS.exe
+F:\UTS\UTS\obj\x86\Debug\UTS.xml
+F:\UTS\UTS\obj\x86\Debug\UTS.pdb
+D:\pdhany\UTS\UTS\obj\x86\Debug\UTS.exe
+D:\pdhany\UTS\UTS\obj\x86\Debug\UTS.xml
+D:\pdhany\UTS\UTS\obj\x86\Debug\UTS.pdb
+D:\pdhany\UTS\UTS\bin\Debug\UTS.exe
+D:\pdhany\UTS\UTS\bin\Debug\UTS.pdb
+D:\pdhany\UTS\UTS\bin\Debug\UTS.xml
+D:\pdhany\UTS\UTS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\pdhany\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+D:\pdhany\UTS\UTS\obj\x86\Debug\UTS.Resources.resources
+D:\pdhany\UTS\UTS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\pdhany\UTS\UTS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.xml
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\bin\Debug\UTS.xml
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2013\Projects\UTS\UTS\obj\x86\Debug\UTS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Downloads\UTS\UTS\UTS\obj\x86\Debug\UTS.exe
+C:\Users\Lenovo\Downloads\UTS\UTS\UTS\obj\x86\Debug\UTS.xml
+C:\Users\Lenovo\Downloads\UTS\UTS\UTS\obj\x86\Debug\UTS.pdb
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.exe
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.xml
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.pdb
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\bin\Debug\UTS.exe
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\bin\Debug\UTS.pdb
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\bin\Debug\UTS.xml
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.Resources.resources
+D:\Visual Studio 2010\UTS\Salinan\UTS\UTS\obj\x86\Debug\UTS.vbproj.GenerateResource.Cache

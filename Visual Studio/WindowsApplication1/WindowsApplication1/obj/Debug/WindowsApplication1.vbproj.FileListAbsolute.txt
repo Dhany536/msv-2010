@@ -1,0 +1,18 @@
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\asus\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\asus\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\asus\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\asus\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
